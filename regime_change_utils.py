@@ -72,6 +72,7 @@ class RegimeChangeAnimator(object):
     """
     A wrapper class around matplotlib's animation API 
     to create a dynamic rendering of regime change detection over time
+    code inpiration from: http://louistiao.me/posts/notebooks/embedding-matplotlib-animations-in-jupyter-as-interactive-javascript-widgets/
     """
     
     def __init__(self, mdl, regime_change_date, closing_prices=None):

@@ -1,3 +1,4 @@
 .idea/*
 .ipynb_checkpoints/*
 vim-markdown-preview.html
+__pycache__/*
