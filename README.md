@@ -12,7 +12,7 @@ All code for this project is written in **python 3.6**. Stock data is fetched fr
 
 ```bash
 # clone the git repository
-$ git clone https://github.com/bummy93/regime-change-detection.git & cd regime-change-detection
+$ git clone https://github.com/bummy93/regime-change-detection.git; cd regime-change-detection
 
 # install all dependencies
 $ pip install -r requirements.txt
@@ -21,5 +21,5 @@ $ pip install -r requirements.txt
 $ echo "export API_KEY=<YOUR_API_KEY>" >> set_vars.sh
 
 # run the local notebook server
-$ source set_vars.sh & jupyter notebook 
+$ source set_vars.sh; jupyter notebook 
 ```
