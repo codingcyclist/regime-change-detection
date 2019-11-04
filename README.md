@@ -10,7 +10,7 @@ In a **stylized experiment on simulated data from a biased coin**, the model pic
 ## How to run the jupyter notebook:
 All code for this project is written in **python 3.6**. Stock data is fetched from [Alpha Vantage's public API](https://www.alphavantage.co/)
 
-```bash
+```console
 # clone the git repository
 $ git clone https://github.com/bummy93/regime-change-detection.git; cd regime-change-detection
 
